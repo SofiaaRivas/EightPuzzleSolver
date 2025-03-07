@@ -1,0 +1,14 @@
+// Test 1: Perform DFS with repeated state checking
+// Expected visited states = 1
+setState 3 1 2 6 4 5 0 7 8
+printState
+solve DFS maxnodes=1000
+
+// Test 2: Find branching factor of DFS with solution
+BF totalnodes=5 depth=2
+
+// Test 3: Find branching factor of uniform branching tree
+// Branching factor = 2, with depth 5, nodes = 63
+BF totalnodes=63 depth=5
+
+
