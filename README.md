@@ -7,5 +7,5 @@ The search algorithms implemented are:
 - DFS
 - A-star search with two distinct heuristics
 
-  Branching factor analysis
+Branching factor analysis
   - Computes the branching factor of the search algorithm 
